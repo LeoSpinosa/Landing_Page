@@ -42,7 +42,7 @@
 
 .background_main{
     grid-area: main;
-    background: url(/Aulas/assets/london.jpg);
+    background: url(/assets/london.jpg);
     background-repeat: no-repeat;
     background-size: 100% 800px;
     display: flex;
@@ -140,27 +140,27 @@
 
 .cinqueterre{
     grid-area: cinqueterre;
-    background: url(/Aulas/assets/cinqueterre.jpg);
+    background: url(/assets/cinqueterre.jpg);
 }
 
 .newyork{
     grid-area: newyork;
-    background: url(/Aulas/assets/newyork.jpg);
+    background: url(/assets/newyork.jpg);
 }
 
 .sanfrancisco{
     grid-area: sanfrancisco;
-    background: url(/Aulas/assets/sanfran.jpg);
+    background: url(/assets/sanfran.jpg);
 }
 
 .pisa{
     grid-area: pisa;
-    background: url(/Aulas/assets/pisa.jpg);
+    background: url(/assets/pisa.jpg);
 }
 
 .paris{
     grid-area: paris;
-    background: url(/Aulas/assets/paris.jpg);
+    background: url(/assets/paris.jpg);
 }
 
 .nature{
